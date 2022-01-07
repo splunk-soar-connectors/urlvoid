@@ -1,12 +1,12 @@
 Splunk SOAR URLVoid
-Copyright 2021 Splunk Inc.
+Copyright (c) 2016-2021 Splunk Inc.
 
 Third-party Software Attributions:
 
-Library: xmltodict
-Version: 0.12.0
-License: MIT
-Copyright 2012 Martin Blech and individual contributors
+Library: requests
+Version: 2.25.0
+License: Apache 2.0
+Kenneth Reitz
 
 Library: requests-file
 Version: 1.4.2
@@ -18,12 +18,7 @@ Version: 2.1.0
 License: BSD 2
 Copyright 2013-2017 John Kurkowski
 
-Library: pudb
-Version: 2019.2
+Library: xmltodict
+Version: 0.12.0
 License: MIT
-Copyright 2009 Andreas Kloeckner and contributors
-
-Library: requests
-Version: 2.25.0
-License: Apache 2.0
-Kenneth Reitz
+Copyright 2012 Martin Blech and individual contributors
